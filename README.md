@@ -1,4 +1,4 @@
-## 👋 Hey, I'm Nishant Kumar! 😊
+## 👋 Hey, I'm Nishant! 😊
 ### Welcome to my 💥 repository 💥
 
 **Let's have a look on my Personal Stuffs :-**
