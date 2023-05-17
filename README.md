@@ -5,9 +5,6 @@
 - Currently pursuing a Bachelor of Technology in School of Mathematics and Computer Science at IIT Goa.
 - Improving my coding and Problem-Solving skills.
 - I’m looking to collaborate on open source frontend, Backend, FullStack development and AI/ML Projects.
-- I like data Insights and looking for one to help me in exploring.
-- I can utilize my skills and acquire professional knowledge while being resourceful, innovative, and flexible. 
-- I have the ability to learn quickly also can adapt easily to any environment.
 - I believe in learn-Teach-Learn.
 
 [![Nishant's GitHub stats](https://github-readme-stats.vercel.app/api?username=NkOffiCiAL07&show_icons=true&theme=radical)](https://github.com/NkOffiCiAL07/github-readme-stats)
